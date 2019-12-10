@@ -1,0 +1,10 @@
+{
+  "name": "react-library-tpl",
+  "version": "1.0.0",
+  "description": "react library develop template ",
+  "main": "index.js",
+  "repository": "https://github.com/gebin/react-library-tpl",
+  "author": "gebin",
+  "license": "MIT",
+  "private": false
+}
